@@ -22,6 +22,7 @@ To achieve this, this program includes following courses:
 
 Check out the course details [here](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
 
+
 <div>
   <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/tree/main/00%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning" target="_blank">
   <h2>
@@ -37,6 +38,7 @@ If you are a software developer who wants to build scalable AI-powered algorithm
 
 The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
+
 <div>
   <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/tree/main/01%20Convolutional%20Neural%20Networks%20in%20TensorFlow" target="_blank">
   <h2>
@@ -49,6 +51,7 @@ The Machine Learning course and Deep Learning Specialization from Andrew Ng teac
 </div>
 
 In Course 2 of the deeplearning.ai TensorFlow Specialization, you will learn advanced techniques to improve the computer vision model you built in Course 1. You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropout. Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models. The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
+
 
 <div>
   <a href="" target="_blank">
@@ -63,6 +66,7 @@ In Course 2 of the deeplearning.ai TensorFlow Specialization, you will learn adv
 
 In Course 3 of the deeplearning.ai TensorFlow Specialization, you will build natural language processing systems using TensorFlow. You will learn to process text, including tokenizing and representing sentences as vectors, so that they can be input to a neural network. You’ll also learn to apply RNNs, GRUs, and LSTMs in TensorFlow. Finally, you’ll get to train an LSTM on existing text to create original poetry! The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
+
 <div>
   <a href=" " target="_blank">
   <h2>
@@ -75,6 +79,7 @@ In Course 3 of the deeplearning.ai TensorFlow Specialization, you will build nat
 </div>
 
 In this fourth course, you will learn how to build time series models in TensorFlow. You’ll first implement best practices to prepare time series data. You’ll also explore how RNNs and 1D ConvNets can be used for prediction. Finally, you’ll apply everything you’ve learned throughout the Specialization to build a sunspot prediction model using real-world data! The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
+
 
 ## Reference
 https://www.coursera.org/professional-certificates/tensorflow-in-practice
