@@ -16,3 +16,15 @@ This repository contains all the work I did from the following:
  </a>
   </h2>
 </div>
+
+
+<div>
+  <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/tree/main/01%20Convolutional%20Neural%20Networks%20in%20TensorFlow" target="_blank">
+  <h2>
+   2. Convolutional Neural Networks in TensorFlow
+    </a>
+ <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/blob/main/01%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Coursera%20SQ6Y68N2WXB4.pdf" target="_blank">
+  <img src=https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera/>
+ </a>
+  </h2>
+</div>
