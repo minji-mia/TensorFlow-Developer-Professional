@@ -1,6 +1,6 @@
 # TensorFlow Developer Professional Certificate
 
-This Repository Contains Solution to the Assignments of the Tensorflow in Practice Specialization from deeplearning.ai on Coursera Taught by [Laurence Moroney](https://www.coursera.org/instructor/lmoroney).
+This Repository Contains Solution to the Assignments of the Tensorflow in Practice Specialization from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice) taught by [Laurence Moroney](https://www.coursera.org/instructor/lmoroney).
 
 TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program taught me applied machine learning skills with TensorFlow so I can build and train powerful models.
 
