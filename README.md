@@ -22,6 +22,9 @@ To achieve this, this program includes following courses:
 
 Check out the course details [here](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
 
+## Certificate
+
+![Certificate](https://user-images.githubusercontent.com/52568892/108551831-1660f780-72b6-11eb-87ae-02101b92ffec.png)
 
 <div>
   <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/tree/main/00%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning" target="_blank">
@@ -54,12 +57,12 @@ In Course 2 of the deeplearning.ai TensorFlow Specialization, you will learn adv
 
 
 <div>
-  <a href="" target="_blank">
+  <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/tree/main/03%20Natural%20Language%20Processing%20in%20TensorFlow" target="_blank">
   <h2>
    3. Natural Language Processing in TensorFlow
     </a>
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Certificate-Progress-%230056D2?style=?flat-square&logo=Coursera" />
+ <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/blob/main/03%20Natural%20Language%20Processing%20in%20TensorFlow/Coursera%20KPYFTAPJF8XT.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
  </a>
   </h2>
 </div>
@@ -68,12 +71,12 @@ In Course 3 of the deeplearning.ai TensorFlow Specialization, you will build nat
 
 
 <div>
-  <a href=" " target="_blank">
+  <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/tree/main/04%20Sequences%2C%20Time%20Series%20and%20Prediction" target="_blank">
   <h2>
    4. Sequences, Time Series and Prediction
     </a>
- <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/blob/main/01%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Coursera%20SQ6Y68N2WXB4.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Certificate-Progress-%230056D2?style=?flat-square&logo=Coursera" />
+ <a href="https://github.com/minji-mia/TensorFlow-Developer-Professional/blob/main/04%20Sequences%2C%20Time%20Series%20and%20Prediction/Coursera%20VL39XBJJ8NUU.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
  </a>
   </h2>
 </div>
